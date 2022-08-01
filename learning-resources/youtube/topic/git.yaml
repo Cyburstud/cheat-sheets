@@ -1,0 +1,12 @@
+title: "Youtube Topic: Git"
+videos: 
+  - url: https://www.youtube.com/watch?v=HkdAHXoRtos
+    title: Git It? How to use Git and Github
+    youtuber: fireship.io
+    channel: 
+      url: https://www.youtube.com/c/Fireship/
+  - url: https://www.youtube.com/watch?v=1uFVr15xDGg
+    title: Yaml Tutorial | Learn YAML in 18 mins
+    youtuber: TechWorld with Nana
+    channel: 
+      url: https://www.youtube.com/c/TechWorldwithNana
